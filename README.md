@@ -1,4 +1,4 @@
-# 📝 MERN Notes App
+# 📝 MERN Notes 
 
 Welcome to the **MERN Notes App** – a sleek, intuitive app built on the **MERN stack** (MongoDB, Express.js, React, Node.js) designed to help you manage your notes effortlessly!
 
