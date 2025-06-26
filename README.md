@@ -28,4 +28,4 @@ Before you begin, make sure you have the following installed on your system:
 
 Start by cloning the project to your local environment:
 ```bash
-git clone https://github.com/virajodedra/Notes-App-MERN
+git clone https://github.com/virajodedra/SmartNotes-MERN
